@@ -59,6 +59,9 @@ When you are finished with lab, follow these steps to submit your work. Create o
  - Link to your live site in your README, for whichever repo you deploy.
 #### Link to Ian's Heroku App: https://ians-ploggin-bloggin.herokuapp.com/about
 
+#### Link to Katherine H's Heroku App:
+https://katherines-kool-blog.herokuapp.com/
+
 #### Stretch Goals  
 
  1. As a site owner, I want [blog.my-own-domain-name.io] hooked up to my Heroku app, so that I don't have to explain to people how to spell "myblog.herokuapp.com" over the phone.
